@@ -31,10 +31,11 @@ The files in this directory are used to configure Intellij.
      - (when the 'Import Profile' is not available, you can copy the file manually to .idea/inspectionProfiles)
 
 ## Save actions
-6. Install the "Save Actions" plugin (IntelliJ 2023.1 requires version 2.6.0: https://github.com/fishermans/intellij-plugin-save-actions/releases/tag/v2.6.0)
+6. Install the "Save Actions X" plugin: https://plugins.jetbrains.com/plugin/22113-save-actions-x
     * under `Preferences...` -> `Plugins`
-        - Download the "Save Actions" plugin (IntelliJ 2023.1 requires version 2.6.0: https://github.com/fishermans/intellij-plugin-save-actions/releases/tag/v2.6.0)
-        - Install Plugin from disk.....
+        - In tab `Marketplace` seacrh for `Save Actions X` 
+        - Click on the `Install` button
+        - Restart your IntelliJ
 7. Configure `Save Actions`, enable the following options
      * under `Preferences...` -> `Other Settings`
       - General: Activate save actions on save
